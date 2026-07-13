@@ -1,0 +1,4 @@
+从代码仓库拉下来：  选一个仓库，右键Git Bash Here   输入: git clone  SSH地址     完成
+上传代码  ：右键 git bash   输入：git add  文件名.后缀  回车
+                     再输入 git commit -m ”测试是否成功“     --（创建一个历史版本，方便查找记忆）
+                     最后再输入  git push origin main    即可
